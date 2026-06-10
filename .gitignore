@@ -1,0 +1,4 @@
+.env
+tempCodeRunnerFile.py
+.venv/
+__pycache__/
